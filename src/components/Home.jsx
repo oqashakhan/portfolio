@@ -6,10 +6,10 @@ const Home = () => {
         <section className="home">
             <div className="content">
                 <div className="name">
-                    MY NAME IS <span>OQASHA</span>
+                    MY NAME  IS <span>OQASHA</span>
                 </div>
                 <div className="desc">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Est perferendis aut voluptate laudantium labore eveniet eaque tempora excepturi quo. Alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, dicta.
+                    Lorem ipsum dolor sit amet  consectetur adipisicing elit. Est perferendis aut voluptate laudantium labore eveniet eaque tempora excepturi quo. Alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo, dicta.
                 </div>
                 <button>DOWNLOADE CV </button>
             </div>
