@@ -6,6 +6,7 @@ import Navbar from './components/Navbar'
 import Project from './components/Project'
 import Skills from './components/Skills'
 
+
 function App() {
 
 
@@ -15,7 +16,7 @@ function App() {
      <Navbar/>
      <Skills/>
      <Project/>
-     
+
      <Contact/>
     </>
   )
